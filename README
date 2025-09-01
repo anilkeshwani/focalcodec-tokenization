@@ -1,0 +1,27 @@
+# Tokenize Speech Data with FocalCodec
+
+Adapted from https://github.com/lucadellalib/focalcodec
+
+# Usage
+
+See ./mls.py --help
+
+Note: launcher.sh for ad hoc use only
+
+# Citation
+
+FocalCodec: Low-Bitrate Speech Coding via Focal Modulation Networks
+Luca Della Libera, Francesco Paissan, Cem Subakan, Mirco Ravanelli
+
+
+```
+@misc{dellalibera2025focalcodeclowbitratespeechcoding,
+      title={FocalCodec: Low-Bitrate Speech Coding via Focal Modulation Networks}, 
+      author={Luca Della Libera and Francesco Paissan and Cem Subakan and Mirco Ravanelli},
+      year={2025},
+      eprint={2502.04465},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.04465}, 
+}
+```
